@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tri", "Tri\Tri.csproj", "{D74818DD-29F4-415D-9C6C-3A883EFF31BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleUnitTest", "TriangleUnitTest\TriangleUnitTest.csproj", "{03100C45-F03F-4193-BAEE-1B25EE2F44DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D74818DD-29F4-415D-9C6C-3A883EFF31BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74818DD-29F4-415D-9C6C-3A883EFF31BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74818DD-29F4-415D-9C6C-3A883EFF31BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74818DD-29F4-415D-9C6C-3A883EFF31BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03100C45-F03F-4193-BAEE-1B25EE2F44DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03100C45-F03F-4193-BAEE-1B25EE2F44DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03100C45-F03F-4193-BAEE-1B25EE2F44DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03100C45-F03F-4193-BAEE-1B25EE2F44DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

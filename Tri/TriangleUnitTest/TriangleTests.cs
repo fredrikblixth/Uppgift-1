@@ -68,7 +68,7 @@ namespace TriangleUnitTest
             var point2 = new Point(-3, 0);
             var point3 = new Point(0, 3);
 
-            var triangle2 = new Triangle(point1, point2, point3);
+            var triangle2 = new Triangle(point3, point2, point1);
 
             Assert.IsTrue(triangle2.isIsosceles());
             Assert.IsFalse(triangle2.isScalene());
@@ -76,11 +76,24 @@ namespace TriangleUnitTest
 
             var pointArray = new Point[3] {point1,point2,point3};
 
+            // Constructor with point array
             var triangle3 = new Triangle(pointArray);
 
             Assert.IsTrue(triangle3.isIsosceles());
             Assert.IsFalse(triangle3.isScalene());
             Assert.IsFalse(triangle3.isEquilateral());
+        }
+
+        [TestMethod]
+        public void Point()
+        {
+            // Point struct test.
+            var x = 4;
+            var y = -1;
+            var point = new Point(x, y);
+
+            Assert.AreEqual(x, point.x);
+            Assert.AreEqual(y, point.y);
         }
     }
 }

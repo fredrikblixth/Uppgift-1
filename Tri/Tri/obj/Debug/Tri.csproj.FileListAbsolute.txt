@@ -4,3 +4,9 @@ C:\Users\fredrik_bli\Documents\GitHub\Uppgift-1\Tri\Tri\bin\Debug\Tri.pdb
 C:\Users\fredrik_bli\Documents\GitHub\Uppgift-1\Tri\Tri\obj\Debug\Tri.csprojResolveAssemblyReference.cache
 C:\Users\fredrik_bli\Documents\GitHub\Uppgift-1\Tri\Tri\obj\Debug\Tri.exe
 C:\Users\fredrik_bli\Documents\GitHub\Uppgift-1\Tri\Tri\obj\Debug\Tri.pdb
+C:\Users\Fredrik\Documents\GitHub\Uppgift-1\Tri\Tri\bin\Debug\Tri.exe.config
+C:\Users\Fredrik\Documents\GitHub\Uppgift-1\Tri\Tri\obj\Debug\Tri.exe
+C:\Users\Fredrik\Documents\GitHub\Uppgift-1\Tri\Tri\obj\Debug\Tri.pdb
+C:\Users\Fredrik\Documents\GitHub\Uppgift-1\Tri\Tri\bin\Debug\Tri.exe
+C:\Users\Fredrik\Documents\GitHub\Uppgift-1\Tri\Tri\bin\Debug\Tri.pdb
+C:\Users\Fredrik\Documents\GitHub\Uppgift-1\Tri\Tri\obj\Debug\Tri.csprojResolveAssemblyReference.cache
